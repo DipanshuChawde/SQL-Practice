@@ -9,6 +9,12 @@ insert into works values("sunita","IBM",78000);
 insert into works values("sunil","Infosys",68000);
 insert into works values("Ajay","Oracle",56000);
 
+insert into works values("gopal","MBT",67000);
+insert into works values("baban","Amdocs",35000);
+insert into works values("dipak","Amdocs",45000);
+insert into works values("Eshan","Infosys",58000);
+insert into works values("falguni","Oracle",88000);
+
 select * from works;
 +----------+-----------+--------+
 | Emp_Name | Comp_Name | salary |

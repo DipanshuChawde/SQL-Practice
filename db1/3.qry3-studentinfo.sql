@@ -10,6 +10,7 @@ INSERT INTO student_info VALUES (2,'Hari','Prasad', 78787878,'Viman Nagar','pune
 INSERT INTO student_info VALUES (5,'Rvinay','kukarni', 78787878,'meera road','mumbai','India');
 
 
+
 mysql> select * from student_info;
 +--------+----------+-----------+------------+-------------+--------+---------+
 | std_id | std_name | parent_nm | ph_no      | add_of_std  | city   | country |

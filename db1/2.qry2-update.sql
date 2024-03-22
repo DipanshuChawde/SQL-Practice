@@ -11,8 +11,7 @@ mysql> select * from works;
 +----------+-----------+--------+
 6 rows in set (0.00 sec)
 
-mysql> update employee set street="wakad" where street='baner' and city='pun
-e';
+mysql> update employee set street="wakad" where street='baner' and city='pune';
 Query OK, 2 rows affected (0.00 sec)
 Rows matched: 2  Changed: 2  Warnings: 0
 
